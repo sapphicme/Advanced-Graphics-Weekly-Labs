@@ -1,0 +1,25 @@
+{
+    "objs":[
+        {
+            "geo": "Box", 
+            "posX": 50,
+            "posY": 5,
+            "posZ": 50,
+            "colr": "0xff9977"
+        },
+        {
+            "geo": "Cylinder", 
+            "posX": -50,
+            "posY": 5,
+            "posZ": 50,
+            "colr": "0x99ff77"
+        },
+        {
+            "geo": "Sphere", 
+            "posX": 10,
+            "posY": 10,
+            "posZ": -10,
+            "colr": "0x7799ff"
+        }
+    ]
+}
